@@ -3,6 +3,9 @@ Our research proposes a novel MoGU framework that improves LLMs' safety while pr
 
 ## Paper (Under Review)
 MoGU: A Framework for Enhancing Safety of Open-Sourced LLMs While Preserving Their Usability
+[https://arxiv.org/abs/2405.14488]
+
+Open-sourced Parameters: https://huggingface.co/yrdu
 
 ## Abstract 
 Large Language Models (LLMs) are increasingly deployed in various applications. As their usage grows, concerns regarding their safety are rising, especially in maintaining harmless responses when faced with malicious instructions. 
