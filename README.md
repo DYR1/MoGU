@@ -1,4 +1,7 @@
-# News
+## MoGU Framework
+A framework for improving LLMs' security without compromising their usability, adaptable to any LLMs.
+
+## News
 - [Coming Soon] We have developed a lighter MoGU framework (MoGU V2), which requires less inference cost and achieves better security.
 - [Coming Soon] We propose a novel method for secure fine-tuning, which focuses on preserving LLMs' security during the fine-tuning phase (The [Arxiv Version](https://arxiv.org/abs/2410.04524) is just a preliminary version. We have designed a new and more effective method.).
 - [2025.1.15] We released MoGU's training data and code for Llama2, Falcon, and Vicuna.
