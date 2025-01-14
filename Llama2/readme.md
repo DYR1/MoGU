@@ -1,4 +1,4 @@
-We provide the MoGU training code for llama2. You can run the following code.
+We provide the MoGU training code for Llama2. You can run the following code.
 ```python
 python sft_glad.py
 python sft_unwill.py
